@@ -1,0 +1,8 @@
+{
+  "provider": "openai-compatible",
+  "base_url": "https://api.openai.com/v1",
+  "text_model": "gpt-4.1-mini",
+  "vision_model": "gpt-4.1-mini",
+  "timeout": 60,
+  "relative_tolerance": 0.01
+}
